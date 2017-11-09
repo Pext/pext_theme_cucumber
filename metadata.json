@@ -1,0 +1,11 @@
+{
+  "name": "cucumber",
+  "developer": "Emily Lau",
+  "description": "A green theme for Pext.",
+  "homepage": "https://pext.hackerchick.me/",
+  "license": "CC-BY-3.0",
+  "git_urls": [
+    "https://github.com/Pext/pext_theme_cucumber",
+    "https://notabug.org/Pext/pext_theme_cucumber"
+  ]
+}
